@@ -1,0 +1,5 @@
+INDEX VERSION 1.130+C:\Users\lyw\Desktop\lyw\Java_demo\.metadata\.plugins\org.eclipse.jdt.core
+3435648363.index
+1339285105.index
+3604647883.index
+953478887.index
