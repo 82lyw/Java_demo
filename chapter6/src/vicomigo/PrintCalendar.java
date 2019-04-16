@@ -17,9 +17,9 @@ public class PrintCalendar {
 	}
 	
 	public static void printMonth(int year,int month) {
-		printMonthTitle(year,month);
-		
-		printMonthBody(year,month);
+//		printMonthTitle(year,month);
+//		
+//		printMonthBody(year,month);
 	}
 	
 	public static void printMonthTitle(int year,int month) {
