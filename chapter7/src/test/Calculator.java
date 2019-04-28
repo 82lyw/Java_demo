@@ -1,5 +1,6 @@
 package test;
 
+//¼ÆËã»ú
 public abstract class Calculator {
 
 	public static void main(String[] args) {
